@@ -1,5 +1,4 @@
 
-![code](https://media3.giphy.com/media/1oF1KAEYvmXBMo6uTS/source.gif)
 
 
 <!--
@@ -15,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![code](https://media3.giphy.com/media/1oF1KAEYvmXBMo6uTS/source.gif)
+
 -->
