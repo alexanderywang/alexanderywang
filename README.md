@@ -1,7 +1,7 @@
 ## Hi, I am Alex! 👋
 
 
-- ![Find me on LinkedIn](https://www.linkedin.com/in/alexanderywang/)
+- [Find me on LinkedIn](https://www.linkedin.com/in/alexanderywang/)
 
 <!--
 **alexanderywang/alexanderywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
