@@ -1,4 +1,6 @@
 ### Hi there 👋
+![code](https://media3.giphy.com/media/1oF1KAEYvmXBMo6uTS/source.gif)
+
 
 <!--
 **alexanderywang/alexanderywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
